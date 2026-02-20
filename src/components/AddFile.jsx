@@ -24,6 +24,24 @@ const AddFile = () => {
       <h1>I again updated  this file .</h1>
       <h1>check out the changes</h1>
       <h1>tell me the changes . i should have to do ?</h1>
+      <h2>
+        This is husnain ali
+      </h2>
+       <h2>
+        This is husnain ali
+      </h2>
+       <h2>
+        This is husnain ali
+      </h2>
+       <h2>
+        This is husnain ali
+      </h2>
+       <h2>
+        This is husnain ali
+      </h2>
+       <h2>
+        This is husnain ali
+      </h2>
     </div>
   )
 }
